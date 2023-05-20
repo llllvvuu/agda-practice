@@ -1,0 +1,3 @@
+name: llllvvuu-cubical
+depend: standard-library cubical
+include: .
